@@ -6,7 +6,7 @@
 Replacement for the original TXT-C-Programming-Kit-4-1-6
 
 ## Overview
-These programming kit for the development of remote applications for the fischertechnik TXT controller contains a library which takes for the communication with the TXT and offers a rich set of higher level API to the end-user. But is also still possible to program directly on TA (transfer area) level.
+This programming kit for the development of remote applications for the fischertechnik TXT controller contains a library which takes for the communication with the TXT and offers a rich set of higher level API to the end-user. But is also still possible to program directly on TA (transfer area) level.
 
 
 ### Which tools I need?
@@ -20,7 +20,7 @@ After downloading a solution, it is directly usable with MS Visual Studio 2019.<
 
 ### Overview of the available MS-Visual Studio solutions.
 The original `OnlineSamples` structure contains a mixer of the low level library stuff and end-user applications and has been split up into a library solution and a application solution now.
-The library has been extended with simular higher level functions as there were available in the ROBO-interface and TC-controller programming kits.
+The library has been extended with similar higher level functions as there were available in the ROBO-interface and TC-controller programming kits.
 The end-user needs only `SolutionTxtApps` and can add his projects to it; this solution is also to download directly as .zip file.<br/>
 
 1.  [`SolutionTxtApps`](./SolutionTxtApps/README.md) 
